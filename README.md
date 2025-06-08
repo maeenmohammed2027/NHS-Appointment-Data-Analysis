@@ -1,20 +1,21 @@
-# NHS-Appointment-Data-Analysis
 # NHS Appointment Data Analysis
 
-This project analyzes NHS appointment data using Python to uncover trends in attendance, service settings, and future demand. The analysis supports strategic decisions aligned with NHS goals for expanding community care and improving access.
+This project analyzes NHS appointment data using Python to uncover trends in attendance, service settings, and future demand. The goal is to provide insights that support NHS strategic decisions around community care, service access, and resource planning.
 
 ## Key Features
-- Data wrangling with Pandas
-- Visualizations with Seaborn and Matplotlib
-- Time-series forecasting with Prophet
-- Focus on appointment trends, non-attendance, and service types
+- Data wrangling and cleaning using Pandas
+- Interactive visualizations using Seaborn and Matplotlib
+- Forecasting with Facebook Prophet for General Practice and Social Prescribing services
+- Analysis of non-attendance patterns and seasonal demand fluctuations
 
 ## Tools Used
 Python, Pandas, NumPy, Seaborn, Matplotlib, Prophet, Jupyter Notebook
 
 ## Outputs
-- Insights on seasonal demand and waiting times
-- GP appointment forecasting
-- Visual dashboards
-  ## Author
-  Maeen Mohammed
+- Data-driven insights into NHS appointment volume and delays
+- Forecast models to support planning and service delivery
+- Visual dashboards supporting data storytelling
+
+## Author
+Maeen Mohammed
+
